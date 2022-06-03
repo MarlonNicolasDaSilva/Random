@@ -1,5 +1,5 @@
 # My setup 
-print("Processor: \n");
+print("Processor:") \n
 #dis 
 das
 jjjjj
